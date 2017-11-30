@@ -1,7 +1,5 @@
-.row{
+.container{
+
+	height: 400px;
 	background: red;
-}
-.box{
-	height: 300px;
-	background: blue;
 }
